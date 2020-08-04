@@ -9,3 +9,31 @@ Outline:
 6. Comparison of Models
 7. Sample size and power discussion
 8. Experimental Design discussion
+
+Data legend:
+column 1 = case number
+column 2 = treatment group
+
+column 3 = pain (Verbal Rating Scale VRS) score 1 to 5 (first visit)
+column 4 = pain (Verbal Analogue Scale VAS) score 1 to 100 (first visit)
+column 5 = anxiety (VAS) score 1 to 100 (first visit)
+column 6 = alerteness VAS score 0 to 100 (first visit)
+column 7 = time since treatment (minutes)  (first visit)
+
+column 8 = pain (Verbal Rating Scale VRS) score 1 to 5 (second visit)
+column 9 = pain (Verbal Analogue Scale VAS) score 1 to 100 (second visit)
+column 10 = anxiety (VAS) score 1 to 100 (second visit)
+column 11 = alerteness VAS score 0 to 100 (second visit)
+column 12 = time since treatment (minutes)  (second visit)
+
+column 13 = pain (Verbal Rating Scale VRS) score 1 to 5 (third visit)
+column 14 = pain (Verbal Analogue Scale VAS) score 1 to 100 (third visit)
+column 15 = anxiety (VAS) score 1 to 100 (third visit)
+column 16 = alerteness VAS score 0 to 100 (third visit)
+column 17 = time since treatment (minutes)  (third visit)
+
+column 18 = pain (Verbal Rating Scale VRS) score 1 to 5 (fourth visit)
+column 19 = pain (Verbal Analogue Scale VAS) score 1 to 100 (fourth visit)
+column 20 = anxiety (VAS) score 1 to 100 (fourth visit)
+column 21 = alerteness VAS score 0 to 100 (fourth visit)
+column 22 = time since treatment (minutes)  (fourth visit)

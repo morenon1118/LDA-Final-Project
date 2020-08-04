@@ -21,3 +21,4 @@ colnames(dat) <- c("id",
                    "anx.4", 
                    "alrt.4", 
                    "time.trt.4")
+
